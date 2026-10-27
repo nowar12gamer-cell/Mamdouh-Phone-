@@ -1,0 +1,6 @@
+{
+  "name": "ممدوح فون | متجر ومحل الموبايلات",
+  "description": "متجر ممدوح فون المتكامل لأحدث الهواتف الذكية الأصلية، إكسسوارات معتمدة، عرض تفاعلي ثلاثي الأبعاد 3D، وخدمات الصيانة والاستبدال.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
